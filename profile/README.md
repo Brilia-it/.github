@@ -51,10 +51,10 @@ Dietro il lavoro c'è un sistema multi-agente costruito su Claude Code e organiz
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" />
-  <img src="./assets/stats-dark.svg" width="880" alt="Ultimi 30 giorni: oltre 3.314 sessioni di agenti, 80.477 chiamate ai modelli, 24,7 miliardi di token, il 96% servito dalla cache, con Claude, Codex e Kimi" />
+  <img src="./assets/stats-dark.svg" width="880" alt="Ultimi 30 giorni: oltre 3.395 sessioni di agenti, 85.432 chiamate ai modelli, 26,0 miliardi di token, il 96% servito dalla cache, con Claude, Codex e Kimi" />
 </picture>
 
-<sub>Misurato con <a href="https://github.com/getagentseal/codeburn">CodeBurn</a> sulla macchina principale, dal 9 settembre al 9 ottobre 2026.</sub>
+<sub>Misurato con <a href="https://github.com/getagentseal/codeburn">CodeBurn</a> sulla macchina principale, dal 10 settembre al 9 ottobre 2026.</sub>
 
 ---
 
