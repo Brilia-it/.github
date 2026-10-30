@@ -19,7 +19,7 @@ BRILIA è un'agenzia di marketing italiana con una promessa: **portiamo clienti 
 Social, SEO, newsletter, siti e campagne sono strumenti al servizio di questo obiettivo. Partiamo dal brand, dal pubblico e dal percorso che li collega.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/ink-strategy.jpg" width="520" alt="Una bussola e una rotta collegano il pubblico alle attività dei clienti." />
+  <img src="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/agency-client-route.jpg" width="600" alt="Una rotta ambra accompagna le persone verso l’attività di un cliente." />
 </p>
 
 ## Strategia, sistemi AI e responsabilità umana
@@ -29,10 +29,19 @@ Costruiamo workflow multi-agente per il marketing: compiti specializzati, coordi
 **Il sistema supporta il lavoro. La direzione e la revisione restano umane.**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/ink-orchestration.jpg" width="520" alt="Mani umane coordinano tre postazioni specializzate attraverso una regia centrale." />
+  <img src="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/agency-workshop.jpg" width="600" alt="Laboratorio concettuale dell’agenzia: aree di ricerca, produzione e consegna collegate intorno a un progetto." />
 </p>
 
 ### Le attività documentate
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/services-dark-mobile-agency.png" />
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/services-light-mobile-agency.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/services-dark-agency.png" />
+  <img src="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/services-light-agency.png" width="880" alt="Sei aree di lavoro BRILIA: strategia, contenuti, siti e grafica, contatti e vendite, ricerca, operatività." />
+</picture>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/agency-channels.jpg" width="600" alt="Materiali editoriali, web, email e social coordinati da un unico filo ambra." /></p>
 
 | Area | Attività |
 |---|---|
@@ -60,6 +69,17 @@ I cinque reparti in costruzione sono Product Factory, Keyword Architecture, AI G
 
 [Consulta tutti i 60 reparti e gli stati registrati](https://github.com/Brilia-it/.github/blob/main/profile/docs/organigramma.md).
 
+### Lo stato dei reparti, nel dettaglio
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/capacity-dark-mobile-agency.png" />
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/capacity-light-mobile-agency.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/capacity-dark-agency.png" />
+  <img src="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/capacity-light-agency.png" width="880" alt="Snapshot 5 settembre 2026: 21 operativi, 5 in costruzione, 1 minimo operativo, 33 in altri stati. Operativi su registrati: contenuti 3/6, client intelligence 3/7, ufficio 6/11, analytics 0/4, research 1/6, advertising 0/8, platform 0/4, builder 4/7, lead generation 4/7." />
+</picture>
+
+I **33 reparti negli altri stati** comprendono posti assegnati, scheletri, un reparto ritirato e uno da verificare. È la differenza tra i 60 registrati e i 21 operativi, 5 in costruzione e 1 minimo operativo. La barra di ciascun dipartimento mostra gli operativi sul totale registrato, non una misura di produttività.
+
 ## Il carico di lavoro, misurato
 
 <picture>
@@ -80,6 +100,13 @@ Il grafico rappresenta **quote di costo stimato per attività**, non percentuali
 
 ## Come lavoriamo
 
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/process-dark-mobile-agency.png" />
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/process-light-mobile-agency.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/process-dark-agency.png" />
+  <img src="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/process-light-agency.png" width="880" alt="Processo di lavoro: contesto, produzione, revisione, consegna verificata sul canale di utilizzo." />
+</picture>
+
 - **Partiamo dal contesto.** Controlliamo ciò che sappiamo prima di produrre.
 - **Ogni numero ha una fonte.** Dati, citazioni e collegamenti devono poter essere verificati.
 - **Rileggiamo dal lato di chi riceve.** Il controllo serve a trovare e correggere i problemi.
@@ -88,7 +115,7 @@ Il grafico rappresenta **quote di costo stimato per attività**, non percentuali
 - **BRILIA è cliente di se stessa.** Proviamo i metodi anche sui nostri progetti.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/ink-verification.jpg" width="520" alt="Una persona confronta il documento con la versione sullo schermo e corregge ciò che trova." />
+  <img src="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/agency-handover.jpg" width="600" alt="Scena concettuale di consegna: agenzia e cliente verificano insieme il lavoro." />
 </p>
 
 ## Progetti pubblici
@@ -103,3 +130,5 @@ Il grafico rappresenta **quote di costo stimato per attività**, non percentuali
 
 Fondata da **[Mattia Pastrello](https://github.com/Mattiapastr)**.
 
+
+<sub>Illustrazioni concettuali originali per questa pagina: non raffigurano sedi, persone o casi cliente reali.</sub>
