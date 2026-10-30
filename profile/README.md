@@ -1,88 +1,105 @@
-<!--
-  BRILIA - agenzia di marketing italiana. Promessa: portiamo clienti ai nostri clienti.
-  Sito: https://brilia.it
-  GitHub: https://github.com/Brilia-it
-  Fondatore: Mattia Pastrello (https://github.com/Mattiapastr)
-  Temi: lead generation, sistema multi-agente su Claude Code, SEO, newsletter, siti web, marketing misurabile
--->
-
+<!-- BRILIA: profilo pubblico dell'organizzazione. Design BRILIA 2.2. -->
 <div align="center">
 
-  <a href="https://brilia.it">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-      <img src="./assets/header-dark.svg" width="880" alt="BRILIA, portiamo clienti ai nostri clienti" />
-    </picture>
-  </a>
+<a href="https://brilia.it">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/header-dark-mobile.png" />
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/header-light-mobile.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/header-dark.png" />
+  <img src="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/header-light.png" width="880" alt="BRILIA. Portiamo clienti ai nostri clienti. Strategia, strumenti e revisione umana." />
+</picture>
+</a>
 
 </div>
 
+## Il cliente che arriva conta
+
+BRILIA è un'agenzia di marketing italiana con una promessa: **portiamo clienti ai nostri clienti**.
+
+Social, SEO, newsletter, siti e campagne sono strumenti al servizio di questo obiettivo. Partiamo dal brand, dal pubblico e dal percorso che li collega.
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Reparti_attivi-21-3a7d66?style=for-the-badge&labelColor=555555" alt="21 reparti attivi" />
-  <img src="https://img.shields.io/badge/In_costruzione-6-b06a2c?style=for-the-badge&labelColor=555555" alt="6 reparti in costruzione" />
+  <img src="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/ink-strategy.jpg" width="520" alt="Una bussola e una rotta collegano il pubblico alle attività dei clienti." />
 </p>
 
----
+## Strategia, sistemi AI e responsabilità umana
 
-## Cos'è BRILIA
+Costruiamo workflow multi-agente per il marketing: compiti specializzati, coordinamento e controllo del lavoro prima della consegna. Claude Code, Codex e Kimi fanno parte degli strumenti utilizzati.
 
-BRILIA è un'agenzia di marketing italiana con una promessa sola: portare clienti ai suoi clienti. Social, SEO, newsletter e campagne sono il mezzo. Il risultato che conta è il cliente che arriva.
+**Il sistema supporta il lavoro. La direzione e la revisione restano umane.**
 
-Dietro il lavoro c'è un sistema multi-agente costruito su Claude Code e organizzato come un'agenzia vera, in 9 dipartimenti. Ogni reparto nasce con lo stesso standard: una scheda, un responsabile, un addetto per ogni compito e 16 controlli da superare prima di essere dichiarato completo. Oggi lavorano 21 reparti, e altri 6 sono in costruzione.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/ink-orchestration.jpg" width="520" alt="Mani umane coordinano tre postazioni specializzate attraverso una regia centrale." />
+</p>
 
----
+### Le attività documentate
 
-## Cosa fa oggi il sistema
+| Area | Attività |
+|---|---|
+| Contenuti | Newsletter, articoli SEO, post social. |
+| Strategia | Fondamenta del brand, cliente ideale, analisi dei concorrenti. |
+| Siti e grafica | Landing page WordPress, siti web, grafica e stampa, manutenzione. |
+| Contatti e vendite | Raccolta, accompagnamento e qualificazione dei contatti; gestione della pipeline. |
+| Ricerca | Conoscenza estratta da corsi, call e riunioni. |
+| Operatività | Cronologia dei clienti, progetti, archivio, memoria del sistema e monitoraggio dei bandi. |
 
-- **Contenuti**: newsletter, articoli SEO, post per i social.
-- **Strategia**: fondamenta del brand, avatar del cliente ideale, analisi dei concorrenti.
-- **Siti e grafica**: landing page WordPress, siti web, grafica e stampa, manutenzione dei siti.
-- **Contatti e vendite**: raccolta dei contatti in arrivo, email che li accompagnano, qualificazione, andamento della pipeline.
-- **Ricerca**: conoscenza estratta da corsi, call e riunioni.
-- **Ufficio**: la cronologia di ogni cliente, la pianificazione dei progetti, il controllo che ogni impegno preso abbia il suo task, l'archivio Drive in ordine, la memoria del sistema, il monitoraggio dei bandi europei.
+Queste attività riflettono l'organigramma del **5 settembre 2026**. La disponibilità di un servizio va concordata sul progetto.
 
-**In costruzione**: posizionamento, fabbrica di prodotti, architettura delle parole chiave, grafica con l'AI, video UGC con l'AI, mood board.
-
----
-
-## Il sistema negli ultimi 30 giorni
+## L'agenzia, organizzata
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" />
-  <img src="./assets/stats-dark.svg" width="880" alt="Ultimi 30 giorni: oltre 3.395 sessioni di agenti, 85.432 chiamate ai modelli, 26,0 miliardi di token, il 96% servito dalla cache, con Claude, Codex e Kimi" />
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/organization-dark-mobile.png" />
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/organization-light-mobile.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/organization-dark.png" />
+  <img src="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/organization-light.png" width="880" alt="Organigramma BRILIA del 5 settembre 2026: 9 dipartimenti, 60 reparti registrati, 21 operativi e 5 in costruzione." />
 </picture>
 
-<sub>Misurato con <a href="https://github.com/getagentseal/codeburn">CodeBurn</a> sulla macchina principale, dal 10 settembre al 9 ottobre 2026.</sub>
+Lo snapshot **v5.0 del 5 settembre 2026** registra **9 dipartimenti e 60 reparti**: **21 operativi**, incluso uno pre-CARTA, **5 in costruzione** e un reparto **minimo operativo** conteggiato separatamente.
 
----
+I cinque reparti in costruzione sono Product Factory, Keyword Architecture, AI Graphic Design, AI UGC Ads e Mood Board. Il posizionamento è classificato come minimo operativo.
 
-## Come lavora
+[Consulta tutti i 60 reparti e gli stati registrati](https://github.com/Brilia-it/.github/blob/main/profile/docs/organigramma.md).
 
-- **Nessuno strumento è sacro.** «Se dobbiamo utilizzare i piccioni viaggiatori, utilizzeremo i piccioni viaggiatori.»
-- **Ogni numero ha una fonte.** Nei reparti che analizzano dati il lavoro passa da un controllo prima di arrivare al cliente: i numeri devono avere la fonte, le citazioni devono combaciare con la registrazione, i link devono aprirsi.
-- **Risultati misurabili.** Ogni azione ha un indicatore, ogni investimento un ritorno.
-- **BRILIA è cliente di se stessa.** Ogni metodo si prova prima su BRILIA, e i fallimenti si raccontano.
+## Il carico di lavoro, misurato
 
----
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/stats-dark-mobile.png" />
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/stats-light-mobile.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/stats-dark.png" />
+  <img src="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/stats-light.png" width="880" alt="CodeBurn, snapshot 29 ottobre 2026 su Charlie Windows: almeno 9.119 sessioni, 140.431 chiamate ai modelli, 340,4 milioni di token input e output, 99,7% cache hit. Quote di costo stimato: coding 59%, delegation 11%, features 10%, exploration 9%, debugging 6%, conversation 2%, other 3%." />
+</picture>
+
+Snapshot [CodeBurn](https://github.com/getagentseal/codeburn) del **29 ottobre 2026**, vista mobile **Last 30 Days**, su **Charlie, il PC Windows principale di Mattia**.
+
+- **Almeno 9.119 sessioni**, comprese sessioni automatiche di osservazione.
+- **140.431 chiamate ai modelli**.
+- **340,4 milioni di token input + output**.
+- **99,7% cache hit**. Cache conteggiata separatamente: **36,50 miliardi di token letti** e **1,29 miliardi scritti**.
+
+Il grafico rappresenta **quote di costo stimato per attività**, non percentuali delle chiamate o spesa effettivamente fatturata. Questi dati descrivono il carico su una macchina, non la qualità degli output o i risultati dei clienti.
+
+## Come lavoriamo
+
+- **Partiamo dal contesto.** Controlliamo ciò che sappiamo prima di produrre.
+- **Ogni numero ha una fonte.** Dati, citazioni e collegamenti devono poter essere verificati.
+- **Rileggiamo dal lato di chi riceve.** Il controllo serve a trovare e correggere i problemi.
+- **Verifichiamo la consegna sul suo canale.** Un file prodotto è un passaggio; il risultato va controllato dove sarà usato.
+- **Nessuno strumento è sacro.** Scegliamo gli strumenti in funzione del lavoro.
+- **BRILIA è cliente di se stessa.** Proviamo i metodi anche sui nostri progetti.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Brilia-it/.github/main/profile/assets/brilia22/ink-verification.jpg" width="520" alt="Una persona confronta il documento con la versione sullo schermo e corregge ciò che trova." />
+</p>
 
 ## Progetti pubblici
 
-<div align="center">
+**[k3-plugin-cc](https://github.com/Brilia-it/k3-plugin-cc)** porta Kimi K3 dentro Claude Code per revisioni, confronto critico e compiti delegati, con correzioni per Windows.
 
-| Progetto | Cosa fa |
-|:---------|:--------|
-| **[k3-plugin-cc](https://github.com/Brilia-it/k3-plugin-cc)** | Porta Kimi K3 dentro Claude Code per revisioni del codice e compiti delegati. Nasce come fork di [linxule/kimi-plugin-cc](https://github.com/linxule/kimi-plugin-cc) e corregge i tre punti che su Windows non funzionano. |
+È un fork non ufficiale di [linxule/kimi-plugin-cc](https://github.com/linxule/kimi-plugin-cc), con licenza Apache-2.0. Richiede un abbonamento Kimi Code proprio.
 
-</div>
+## Parliamo del tuo progetto
 
-Fondata da Mattia Pastrello, [@Mattiapastr](https://github.com/Mattiapastr).
+[Visita brilia.it](https://brilia.it) per conoscere l'agenzia e i suoi riferimenti.
 
----
+Fondata da **[Mattia Pastrello](https://github.com/Mattiapastr)**.
 
-## Contatti
-
-<p align="center">
-  <a href="https://brilia.it"><img src="https://img.shields.io/badge/Sito-brilia.it-3a7d66?style=for-the-badge&labelColor=555555" alt="Sito di BRILIA" /></a>
-</p>
